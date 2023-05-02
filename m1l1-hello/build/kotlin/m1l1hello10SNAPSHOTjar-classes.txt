@@ -1,0 +1,1 @@
+/home/leonid.lebidko@rtlabs.ru/development/otus-kotlin/m1l1-hello/build/classes/kotlin/main/MainKt.class
