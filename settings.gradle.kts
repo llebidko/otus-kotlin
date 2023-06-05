@@ -1,6 +1,8 @@
 
 rootProject.name = "otus-kotlin"
-include("m1l1-hello")
+
+//include("m1l1-hello")
+include("ok-marketplace-acceptance")
 
 pluginManagement {
     val kotlinVersion: String by settings
